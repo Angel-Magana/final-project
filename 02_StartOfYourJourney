@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Welcome Aboard</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
+
+	<h1>The Start of Your Journey</h1>
+	<p>Great, I knew you would say yes! Now first things first, you need to get a spaceship. You could buy yourself a spaceship, but they're pretty expensive nowadays. Or you could try hitchhiking, though it seems pretty risky... Or you could just rob someone. That works too.</p>
+	<p><a href="04_BuyAShip.html">I'll buy one.</a>  <a href="05_Hitchhike.html">Guess I'll hitchhike...</a>  <a href="06_Robbery.html">I'M GONNA STEAL A SHIP!</a></p>
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="./assets/js/main.js"></script>
+</body>
+</html>
